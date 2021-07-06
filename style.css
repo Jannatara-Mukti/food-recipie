@@ -1,0 +1,55 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+section{
+    padding: 50px;
+}
+.flexible-container{
+    display: flex;
+}
+h1{
+    font-size: 42px;
+    font-weight: 900;
+    line-height: .3;
+    color: #555;
+}
+h2{
+    color: gray;
+    font-size: 30px;
+    font-weight: 700;
+}
+.color-blue{
+    color: royalblue;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+}
+.top-banner-1{
+    padding-top: 80px;
+    /* padding-left: 10%; */
+}
+.text-style{
+    color: gray;
+    width: 70%;
+    margin: 50px 0;
+    line-height: 1.7;
+}
+.link-btn{
+    color: white;
+    background-image: linear-gradient(royalblue, cyan);
+    text-decoration: none;
+    padding: 15px 50px;
+    border-radius: 50px;
+}
+
+
+
+.about-section{
+    background-image: url("images/Frame\ 56.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
