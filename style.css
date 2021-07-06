@@ -77,6 +77,26 @@ h3{
     color: gray;
     line-height: 1.7;
 }
+.social-media-area{
+    box-shadow: 5px 5px 35px grey;
+    border-radius: 20px;
+    padding: 30px 60px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.social-media-item{
+    width: 33%;  
+    line-height: .3;
+}
+.social-media-item h2{
+    font-size: 38px;
+    color:#000;
+    font-weight: 900;
+}
+.social-media-item p{
+    color: gray;
+    font-size: 14px;
+}
 footer{
     background: rgb(3, 3, 34);
     text-align: center;
